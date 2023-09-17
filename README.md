@@ -1,5 +1,5 @@
 # Employee-Database-Management-System-
-This is my Software developement project1 (CSE 2100) in 3rd semester. Developed by java and sqlite database
+This software is  Developed by java and sqlite database. It can manage Employee database of an institution.
 # Demo:
 
 
